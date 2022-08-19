@@ -1,0 +1,24 @@
+body
+   header { background-color: #E6E6E6;          
+        }
+      h1 {background-color: #C4C4C4;
+          font-family: 'Times New Roman', Times, serif;
+          color: #005677;
+          font-style: normal;
+          font-weight: 700;
+          font-size: 35px;
+          line-height: 84.69%;
+        } 
+    main
+       h2{background-color: #C4C4C4;
+        font-family: 'Times New Roman', Times, serif;
+        color: #005677;
+        }
+        .Nombre{font-style: italic;}
+    footer {background-color:#005677;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 16.94px;
+            color:#FFFFFF;
+        }
